@@ -1,4 +1,6 @@
-Something I happened to make while chilling on a night.
+<img src="https://i.imgur.com/q9Mtunr.gif">
+
+Something I made over a few nights.
 
 Requires [Logisim-Xtended](https://github.com/abc123me/Logisim-Xtended)
 
