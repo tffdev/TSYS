@@ -1,0 +1,27 @@
+Instructions:
+code  asm    description
+-----------------------------------
+1     add    add operand to acc
+2     sub    subtract operand from acc
+3     inc    add 1 to acc
+4     jmp    jump always
+5     jiz    jump if negative
+6     jip    jump if positive
+7     get    get from memory, store in acc
+8     put    put contents of acc into memory location
+9     prt    output contents of acc
+a     aml    add data at a memory location to acc
+b     sml    sub data at a memory location from acc
+f     hlt    stop program
+
+example:
+get 0
+add 5
+put 0
+get 1
+add 5
+aml 0
+prt
+hlt
+
+(should print 010 into console)

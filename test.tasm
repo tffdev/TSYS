@@ -1,0 +1,16 @@
+get 0
+prt
+add 1
+prt
+prt 
+put 0
+put 1
+get 0
+aml 1
+prt
+put 0
+get 1
+aml 0
+prt
+put 1
+jmp 7
